@@ -5,3 +5,6 @@
 
 [Daniel](https://github.com/EICPCohort5/civilization-repo/blob/main/daniel-kotlinski.md)
 [TJX](https://tjx.com)
+
+[Alex](https://github.com/EICPCohort5/civilization-repo/blob/main/Alex-Mazzarese.md)
+[TJX](https://tjx.com)
