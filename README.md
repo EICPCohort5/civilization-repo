@@ -1,3 +1,7 @@
 # civilization-repo
 
-Edited readme - Daniel
+[Ambioris](https://github.com/EICPCohort5/civilization-repo/blob/main/Ambioris-Lora.md)
+[TJX](https://tjx.com)
+
+[Daniel](https://github.com/EICPCohort5/civilization-repo/blob/main/daniel-kotlinski.md)
+[TJX](https://tjx.com)
