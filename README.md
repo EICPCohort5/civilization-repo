@@ -8,3 +8,6 @@
 
 [Alex](https://github.com/EICPCohort5/civilization-repo/blob/main/Alex-Mazzarese.md)
 [TJX](https://tjx.com)
+
+[Seena](https://github.com/EICPCohort5/civilization-repo/blob/main/seena-mathew.md)
+[TJX](https://tjx.com)
