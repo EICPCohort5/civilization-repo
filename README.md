@@ -11,3 +11,6 @@
 
 [Seena](https://github.com/EICPCohort5/civilization-repo/blob/main/seena-mathew.md)
 [TJX](https://tjx.com)
+
+[Callum](https://github.com/EICPCohort5/civilization-repo/blob/main/callum-ogle.md)
+[TJX](https://tjx.com)
